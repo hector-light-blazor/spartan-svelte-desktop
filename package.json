@@ -32,7 +32,7 @@
     "metro4": "^4.3.4",
     "node-powershell": "^4.0.0",
     "pg": "^7.12.1",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "svero": "^1.0.0"
   }
 }
